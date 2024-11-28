@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiwanka Umesh</h1>
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiwanka1012&label=Profile%20views&color=0e75b6&style=flat" alt="thiwanka1012" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiwanka1012&label=Profile%20views&color=0e75b6&style=flat" alt="Thiwanka1012" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiwanka1012" alt="thiwanka1012" /></a> </p>
 

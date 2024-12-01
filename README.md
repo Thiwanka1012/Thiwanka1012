@@ -19,7 +19,25 @@
 
 - 📫 How to reach me **thiwanla22668@gmail.com**
 
+- 🤝 I’m looking for help with **Anything**
 
+- 💬 Ask me about **Anything**
+
+- ⚡ Fun fact **I Like Gaming**
+
+
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thiwanka umesh weerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiwanka umesh weerasinghe" height="30" width="40" /></a>
+<a href="https://fb.com/thiwanka umesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiwanka umesh" height="30" width="40" /></a>
+<a href="https://instagram.com/thiwanka_uw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiwanka_uw" height="30" width="40" /></a>
+<a href="https://discord.gg/thiwanka2469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thiwanka2469" height="30" width="40" /></a>
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -38,7 +56,7 @@
   
 | ![Thiwanka's github stats](https://github-readme-stats.vercel.app/api?username=Thiwanka1012&show_icons=true&theme=tokyonight) | ![Thiwanka GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thiwanka1012&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanNuwangaHirimuthugoda&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DilshanNuwangaHirimuthugoda&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiwanka1012&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Thiwanka1012&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <br>

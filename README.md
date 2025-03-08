@@ -16,6 +16,8 @@
 ---
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBiZzd0M3M0YzB4cHRxZDM3ZnI1MnlxNXQ0NjBweW1zaGd2OHgwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif
+
 
 - 🔭 I am currently studying at **IIT affiliated to Westminster University**
 

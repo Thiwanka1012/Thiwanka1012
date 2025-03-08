@@ -8,6 +8,7 @@
 <h3 align="center">I am an undergraduate student of IIT affiliated to Westminster University / Full stack web developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshannuwangahirimuthugoda&label=Profile%20views&color=0e75b6&style=flat" alt="dilshannuwangahirimuthugoda" /> </p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="85" alt="giphy">
 
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me

@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">I am an undergraduate student of IIT affiliated to Westminster University / Full stack web developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiwanka1012&label=Profile%20views&color=0e75b6&style=flat" alt="Thiwanka Umesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiwanka1012&label=Profile%20views&color=0e75b6&style=flat" alt="Thiwanka1012" /> </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="85" alt="giphy">
 
 
